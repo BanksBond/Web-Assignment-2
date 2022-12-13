@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    text-align: center;
+  }
+  
+  hr {
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    width: 4%;
+    border-color: #EAF6F6;
+  }
+  
+  .container {
+    background-color: #e0ebe8;
+    padding: 194px 194px 120px 194px;
+  }
+  
+  .moon {
+    position: absolute;
+    left: 796px;
+    top: -10px;
+    width: 7%;
+  }
+  
+  .right-cloud {
+    position: absolute;
+    right: 478px;
+    top: 115px;
+  }
+  
+  .left-cloud {
+    position: absolute;
+    left: 470px;
+  }
+  
+  h2 {
+    margin: 0;
+    color: #45b29a;
+    font-family: 'Anek Malayalam', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+  }
+  
+  p {
+    font-size: 1.5rem;
+    font-family: 'EB Garamond', serif;
+  }
+  
+  h3 {
+    color: #11999E;
+    font-family: 'Anek Malayalam', sans-serif;
+    font-size: 2rem;
+  }
+  
+  a {
+    color: #11999E;
+    text-decoration: none;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+  a:hover {
+    color: black;
+  }
+  
+  .lands {
+    height: 300px;
+    background-color: #e0ebe8;
+  }
+  
+  .middle-container {
+    padding: 40px 0 0;
+  }
+  .skill {
+    color: black;
+  }
+  
+  .skill-row {
+    width: 50%;
+    margin: 50px auto 100px;
+    text-align: left;
+  }
+  
+  .giphy-embed1 {
+    margin: 0 150px 0 0;
+    width: 25%;
+    float: left;
+  }
+  
+  .giphy-embed2 {
+    margin: 0 0 0 150px;
+    width: 25%;
+    float: right;
+  }
+  
+  .contact-me {
+    /* padding: 100px 600px 150px; */
+    width: 50%;
+    margin: 100px auto 150px;
+    line-height: 2rem;
+  }
+  
+  .mail {
+    width: 20px;
+    margin: auto -12px auto 0;
+    position: relative;
+    top: 3px;
+    right: -39px;
+  }
+  .btn:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  .btn {
+    color: black;
+    border-radius: 6px;
+    /* width: 200px; */
+    background-color: #45b29a;
+    padding: 10px 30px 10px 70px;
+    margin: 0 auto;
+    font-size: 1.2rem;
+    font-family: 'EB Garamond', serif;
+    cursor: pointer;
+    text-decoration: none;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+  
+  .bottom-container {
+    background-color: #c5ded7;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-decoration: none;
+    font-family: 'Anek Malayalam', sans-serif;
+    font-size: 1.2rem;
+  }
+  .footer-link {
+    padding: 0 70px 0;
+    text-decoration: none;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+  .footer-link:hover{
+    color: black;
+  }
+  .footer-p {
+    padding-top: 20px;
+    color: #1b7f69;
+    font-size: 0.9rem;
+  }
